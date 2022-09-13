@@ -1,6 +1,6 @@
 {
   "name": "Mocked List for Pret",
-  "timestamp": "2022-05-07T08:00:00.000Z",
+  "timestamp": "2022-09-13T07:00:00.000Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "Dai Stablecoin",
-      "address": "0xAF65ff571f2D7193d4FeCfFEFA9AaF78ea993400",
+      "address": "0x6123611E23a5e465fD50C31AB6aE0bB6B2ECd220",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 1313161554,
@@ -20,7 +20,7 @@
     },
     {
       "name": "Wrapped Bitcoin",
-      "address": "0x7D99EdfE81833e371d007c57Cc9BF86bD719d60c",
+      "address": "0xc6fb9D67eb423D4f016Da723598F182D3bCCfaD3",
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 1313161554,
@@ -28,7 +28,7 @@
     },
     {
       "name": "USD Coin",
-      "address": "0x108C732f2E87C50fc591687Fa12b0f996f1f6F8B",
+      "address": "0x97f432214b8e35fa772E4eFBA1440b73c033c496",
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 1313161554,
@@ -36,7 +36,7 @@
     },
     {
       "name": "Tether USD",
-      "address": "0xB7f348F0913FBc871B7E44C82aBB2d662F4c751a",
+      "address": "0x52B84B816e9dEB424434b0E28E2575FAff09f179",
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 1313161554,
@@ -44,7 +44,7 @@
     },
     {
       "name": "Wrapped Near",
-      "address": "0x729dfF256Ba68502a17C1443B6F49c6B5300E95d",
+      "address": "0x00072384939Ef04922F5f2f813Fcf333C712Ee58",
       "symbol": "wNEAR",
       "decimals": 24,
       "chainId": 1313161554,
@@ -60,7 +60,7 @@
     },
     {
       "name": "Aurora",
-      "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+      "address": "0x81118Cb1b3257aa92C568648b2d668d9f80727d2",
       "symbol": "AURORA",
       "decimals": 18,
       "chainId": 1313161554,
@@ -68,7 +68,7 @@
     },
     {
       "name": "LiNEAR",
-      "address": "0x918dBe087040A41b786f0Da83190c293DAe24749",
+      "address": "0x859fBC7C426D1bB71044EbcAeFB7F278C93aA122",
       "symbol": "LINEAR",
       "decimals": 24,
       "chainId": 1313161554,
